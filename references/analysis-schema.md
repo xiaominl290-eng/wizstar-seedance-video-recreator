@@ -20,7 +20,7 @@ For every shot or meaningful overlay change, record:
 | Time | Visual subject | Framing/movement | Transition/speed | Text | Audio | Source |
 |---|---|---|---|---|---|---|
 
-Use exact timecodes when possible. Mark estimates with ~.
+Use exact timecodes when possible. Mark estimates with `~`.
 
 ## Copy and audio
 
