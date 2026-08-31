@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wizstar Seedance 视频复刻"
+  short_description: "解析参考视频并用 Wizstar Seedance 复刻及拆出口播素材"
+  default_prompt: "使用 $wizstar-seedance-video-recreator 分析这个参考视频，通过 Wizstar Seedance 生成复刻版并整理数字人口播素材。"
