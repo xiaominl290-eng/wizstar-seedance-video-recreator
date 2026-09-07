@@ -1,0 +1,21 @@
+Local validation 2026-09-07
+Python 3.9.6
+test_bom_crlf_multiline (test_avatar_qa.AcceptanceTests) ... ok
+test_changed_price_not_hidden (test_avatar_qa.AcceptanceTests) ... ok
+test_cli_failure_exit (test_avatar_qa.AcceptanceTests) ... ok
+test_clipping (test_avatar_qa.AcceptanceTests) ... ok
+test_demo_success_and_failure (test_avatar_qa.AcceptanceTests) ... ok
+test_empty_subtitles (test_avatar_qa.AcceptanceTests) ... ok
+test_invalid_request (test_avatar_qa.AcceptanceTests) ... ok
+test_invalid_timestamp (test_avatar_qa.AcceptanceTests) ... ok
+test_overlap (test_avatar_qa.AcceptanceTests) ... ok
+test_request_preserves_approved_copy (test_avatar_qa.AcceptanceTests) ... ok
+test_reverse_interval (test_avatar_qa.AcceptanceTests) ... ok
+test_silence (test_avatar_qa.AcceptanceTests) ... ok
+test_truncated_wav (test_avatar_qa.AcceptanceTests) ... ok
+test_wrong_channels (test_avatar_qa.AcceptanceTests) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.816s
+
+OK
